@@ -1,5 +1,5 @@
 # LearningUnivforMTL
-Repository for "Learning Universality for Multitask Learning through Semi-supervised Auxiliary Learning 
+Repository for "Learning Representation for Multitask Learning through Semi-supervised Auxiliary Learning 
 Accepted in The European Conference of Computer Vision ECCV 2024
 
 Poster Link : https://eccv.ecva.net/virtual/2024/poster/2685
